@@ -1,0 +1,11 @@
+*
+!.gitignore
+!start.sh
+!download.sh
+!mod-urls.txt
+!server.properties
+!INFO.md
+!kubejs/
+!kubejs/*
+!config/
+!config/*
