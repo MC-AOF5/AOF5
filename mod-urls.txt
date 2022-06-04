@@ -1,3 +1,4 @@
+https://media.forgecdn.net/files/3790/958/Log-Begone-Fabric-1.18-1.0.0.jar
 https://media.forgecdn.net/files/3803/402/AdditionalAdditions-4.0.3.jar
 https://media.forgecdn.net/files/3796/954/Adorn-3.5.0%2B1.18.2-fabric.jar
 https://media.forgecdn.net/files/3345/570/advdebug-2.3.0.jar
