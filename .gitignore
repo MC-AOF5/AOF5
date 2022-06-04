@@ -9,3 +9,4 @@
 !kubejs/*
 !config/
 !config/*
+config/ledger.toml
